@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    margin-left: -10px;
 }
 /* .alert {
     width: 100%;
@@ -25,7 +26,7 @@ body{
     background: #285458;
 }
 .box {
-    left: -477px;
+    left: -631px;
     position: relative;
     width: 388px;
     height: 500px;
@@ -195,8 +196,8 @@ body{
 #project_name{
     margin-bottom: 700px;
     margin-right: 200px;
-    margin-left: -767px;
-    font-size: 40px;
+    margin-left: -985px;
+    font-size: 20px;
 }
 
 #project_name_head{
@@ -378,14 +379,14 @@ body{
 
 .scene {
     width: 679px;
-    height: 523px;
+    height: 400px;
 }
 
 .img1 {
-    margin-top: -229px;
-    margin-left: -1px;
-    width: 937px;
+    margin-top: -300px;
+    margin-left: 27px;
+    width: 1200px;
     width: 1688px;
-    height: 922px;
+    height: 1000px;
 }
 
