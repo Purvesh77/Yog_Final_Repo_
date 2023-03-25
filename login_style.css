@@ -127,7 +127,7 @@ body{
     outline: none;
     border: none;
     box-shadow: none;
-    color: #23242a;
+    color: #181819;
     font-size: 1em;
     letter-spacing: 0.05em;
     transition: 0.5s;
@@ -207,11 +207,11 @@ body{
 
 
 /* Second Box */
-.box1{
-    left: -454px;
+.box1 {
+    left: -613px;
     position: relative;
-    width: 380px;
-    height: 595px;
+    width: 321px;
+    height: 563px;
     background: #1c1c1c;
     border-radius: 8px;
     overflow: hidden;
@@ -385,8 +385,12 @@ body{
 .img1 {
     margin-top: -300px;
     margin-left: 27px;
-    width: 1200px;
-    width: 1688px;
-    height: 1000px;
+    width: 1720px;
+    height: 900px;
 }
-
+#project_name1{
+    margin-bottom: 700px;
+    margin-right: 100px;
+    margin-left: -785px;
+    font-size: 20px;
+}
