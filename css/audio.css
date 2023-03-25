@@ -64,7 +64,7 @@ body {
 header {
   min-height: 100vh;
   width: 100%;
-  background-image:url("/Yog/images/Music_Back.jpg");
+  background-image:url("/images/Music_Back.jpg");
   position: relative;
   background-position: center;
   background-size: cover;
